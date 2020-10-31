@@ -1,0 +1,19 @@
+{
+  "name": "gitcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnath30/Frescoplaynpm.git"
+  },
+  "author": "maitreyee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnath30/Frescoplaynpm/issues"
+  },
+  "homepage": "https://github.com/mnath30/Frescoplaynpm#readme"
+}
